@@ -1,0 +1,3 @@
+# Dataset Description
+
+The data used in this [analysis](disney-data-analysis.ipynb) was obtained from this source: https://data.world/kgarrett/disney-character-success-00-16. The datasets used in this analysis are 'disney-director.csv' and 'disney_movies_total_gross.csv'. 'disney-director.csv' contains a movie title and the name of its director. 'disney_movies_total_gross.csv' contains a movie title, release date, genre, MPAA rating, the movie's total gross and its inflation adjusted gross.
